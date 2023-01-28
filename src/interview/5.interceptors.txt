@@ -1,0 +1,2 @@
+1. Add an interceptor to log every output request
+2. Add an interceptor to log every input request

@@ -1,0 +1,2 @@
+1. Add a lazy loading route (/info)
+2. Pre load the /info without triggering from the UI

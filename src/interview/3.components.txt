@@ -1,0 +1,5 @@
+1. Call api and populate data on the browser (https://catfact.ninja/facts) (no need of pagination)
+2. Make component a pure component
+3. Make sure component will only be rendered on input/output change
+4. Add a manual rerender on a user click
+5. Add a pipe to convert length to multiply by row number (ex:- row one multiplier will be 1, row two multiplier will be 2 etc...)

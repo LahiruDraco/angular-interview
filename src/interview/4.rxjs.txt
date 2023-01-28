@@ -1,0 +1,6 @@
+1. Add a service which will emit cats data once api is done
+2. Add another component which will subscribe to this observable
+3. Show all the data
+4. Show only the last data
+5. Show only the first data
+6. Convert observable so it will by default returns a value always
